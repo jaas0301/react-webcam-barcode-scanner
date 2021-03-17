@@ -1,6 +1,6 @@
 {
-  "name": "react-webcam-barcode-scanner",
-  "version": "0.0.2-rc2",
+  "name": "@jaas0301/react-webcam-barcode-scanner",
+  "version": "0.0.1",
   "description": "A simple React Component using the client's webcam to read barcodes.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dashboardphilippines/react-webcam-barcode-scanner.git"
+    "url": "git+https://github.com/jaas0301/react-webcam-barcode-scanner.git"
   },
   "keywords": [
     "react",
@@ -25,9 +25,9 @@
   "author": "Philly Tan <philly@phillytan.xyz>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dashboardphilippines/react-webcam-barcode-scanner/issues"
+    "url": "https://github.com/jaas0301/react-webcam-barcode-scanner.git/issues"
   },
-  "homepage": "https://github.com/dashboardphilippines/react-webcam-barcode-scanner#readme",
+  "homepage": "https://github.com/jaas0301/react-webcam-barcode-scanner.git#readme",
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
